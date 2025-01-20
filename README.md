@@ -1,2 +1,2 @@
 # youtube-ip
-IP алреса Youtube
+IP адреса Youtube для Keenetic lite 3
